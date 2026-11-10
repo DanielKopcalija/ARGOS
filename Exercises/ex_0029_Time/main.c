@@ -7,6 +7,6 @@
 
 int main(void)
 {
-
+  ex_0029_Time();
   return 0;
 }
