@@ -10,8 +10,8 @@
 // Types
 typedef struct
 {
-    char firstName[20];
     char name[20];
+    char firstName[20];
     int birthYear;
 }Person;
 
