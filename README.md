@@ -210,6 +210,7 @@ Keep it open while you work: it refreshes by itself after each `check`.
 | 0033 | [Swap Ptr](.argos/exercises/ex_0033_SwapPtr/README.en.md) · [fr](.argos/exercises/ex_0033_SwapPtr/README.fr.md) | pass by address | 🟢 easy |
 | 0034 | [Reset](.argos/exercises/ex_0034_Reset/README.en.md) · [fr](.argos/exercises/ex_0034_Reset/README.fr.md) | pointers / dereferencing | 🟢 easy |
 | 0110 | [Minmax](.argos/exercises/ex_0110_Minmax/README.en.md) · [fr](.argos/exercises/ex_0110_Minmax/README.fr.md) | pass by address | 🟢 easy |
+| 0111 | [Div Mod](.argos/exercises/ex_0111_DivMod/README.en.md) · [fr](.argos/exercises/ex_0111_DivMod/README.fr.md) | pass by address | 🟡 medium |
 | 0184 | [Deref Modify](.argos/exercises/ex_0184_DerefModify/README.en.md) · [fr](.argos/exercises/ex_0184_DerefModify/README.fr.md) | pointers / dereferencing | 🟡 medium |
 <!-- CATALOGUE:END -->
 
