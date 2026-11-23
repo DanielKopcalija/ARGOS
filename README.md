@@ -218,6 +218,7 @@ Keep it open while you work: it refreshes by itself after each `check`.
 | 0182 | [String Via Ptr](.argos/exercises/ex_0182_StringViaPtr/README.en.md) · [fr](.argos/exercises/ex_0182_StringViaPtr/README.fr.md) | pointers / dereferencing | 🟢 easy |
 | 0183 | [Count Via Ptr](.argos/exercises/ex_0183_CountViaPtr/README.en.md) · [fr](.argos/exercises/ex_0183_CountViaPtr/README.fr.md) | pointers / dereferencing | 🟢 easy |
 | 0184 | [Deref Modify](.argos/exercises/ex_0184_DerefModify/README.en.md) · [fr](.argos/exercises/ex_0184_DerefModify/README.fr.md) | pointers / dereferencing | 🟡 medium |
+| 0185 | [Array Sum Ptr](.argos/exercises/ex_0185_ArraySumPtr/README.en.md) · [fr](.argos/exercises/ex_0185_ArraySumPtr/README.fr.md) | pointers / dereferencing | 🟡 medium |
 <!-- CATALOGUE:END -->
 
 ## License
