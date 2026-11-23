@@ -223,6 +223,7 @@ Keep it open while you work: it refreshes by itself after each `check`.
 | 0188 | [Reverse Array Ptr](.argos/exercises/ex_0188_ReverseArrayPtr/README.en.md) · [fr](.argos/exercises/ex_0188_ReverseArrayPtr/README.fr.md) | pointers / dereferencing | 🟡 medium |
 | 0189 | [Pointer Compare](.argos/exercises/ex_0189_PointerCompare/README.en.md) · [fr](.argos/exercises/ex_0189_PointerCompare/README.fr.md) | pointers / dereferencing | 🟡 medium |
 | 0190 | [Reverse Inplace Ptr](.argos/exercises/ex_0190_ReverseInplacePtr/README.en.md) · [fr](.argos/exercises/ex_0190_ReverseInplacePtr/README.fr.md) | pointer arithmetic | 🟢 easy |
+| 0192 | [Array Slice](.argos/exercises/ex_0192_ArraySlice/README.en.md) · [fr](.argos/exercises/ex_0192_ArraySlice/README.fr.md) | pointer arithmetic | 🟡 medium |
 <!-- CATALOGUE:END -->
 
 ## License
