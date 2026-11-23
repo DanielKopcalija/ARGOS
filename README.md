@@ -213,6 +213,7 @@ Keep it open while you work: it refreshes by itself after each `check`.
 | 0111 | [Div Mod](.argos/exercises/ex_0111_DivMod/README.en.md) · [fr](.argos/exercises/ex_0111_DivMod/README.fr.md) | pass by address | 🟡 medium |
 | 0114 | [Accumulate Stats](.argos/exercises/ex_0114_AccumulateStats/README.en.md) · [fr](.argos/exercises/ex_0114_AccumulateStats/README.fr.md) | pass by address | 🟡 medium |
 | 0115 | [Clamp Inplace](.argos/exercises/ex_0115_ClampInplace/README.en.md) · [fr](.argos/exercises/ex_0115_ClampInplace/README.fr.md) | pass by address | 🟡 medium |
+| 0183 | [Count Via Ptr](.argos/exercises/ex_0183_CountViaPtr/README.en.md) · [fr](.argos/exercises/ex_0183_CountViaPtr/README.fr.md) | pointers / dereferencing | 🟢 easy |
 | 0184 | [Deref Modify](.argos/exercises/ex_0184_DerefModify/README.en.md) · [fr](.argos/exercises/ex_0184_DerefModify/README.fr.md) | pointers / dereferencing | 🟡 medium |
 <!-- CATALOGUE:END -->
 
