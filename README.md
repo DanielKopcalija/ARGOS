@@ -210,6 +210,7 @@ Keep it open while you work: it refreshes by itself after each `check`.
 | 0032 | [Copy Arrays](.argos/exercises/ex_0032_CopyArrays/README.en.md) · [fr](.argos/exercises/ex_0032_CopyArrays/README.fr.md) | pass by address, 1D arrays | 🟡 medium |
 | 0033 | [Swap Ptr](.argos/exercises/ex_0033_SwapPtr/README.en.md) · [fr](.argos/exercises/ex_0033_SwapPtr/README.fr.md) | pass by address | 🟢 easy |
 | 0034 | [Reset](.argos/exercises/ex_0034_Reset/README.en.md) · [fr](.argos/exercises/ex_0034_Reset/README.fr.md) | pointers / dereferencing | 🟢 easy |
+| 0035 | [Reset Pointer](.argos/exercises/ex_0035_ResetPointer/README.en.md) · [fr](.argos/exercises/ex_0035_ResetPointer/README.fr.md) | pointers / dereferencing | 🟡 medium |
 | 0110 | [Minmax](.argos/exercises/ex_0110_Minmax/README.en.md) · [fr](.argos/exercises/ex_0110_Minmax/README.fr.md) | pass by address | 🟢 easy |
 | 0111 | [Div Mod](.argos/exercises/ex_0111_DivMod/README.en.md) · [fr](.argos/exercises/ex_0111_DivMod/README.fr.md) | pass by address | 🟡 medium |
 | 0114 | [Accumulate Stats](.argos/exercises/ex_0114_AccumulateStats/README.en.md) · [fr](.argos/exercises/ex_0114_AccumulateStats/README.fr.md) | pass by address | 🟡 medium |
