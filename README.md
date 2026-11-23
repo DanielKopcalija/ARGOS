@@ -220,6 +220,7 @@ Keep it open while you work: it refreshes by itself after each `check`.
 | 0184 | [Deref Modify](.argos/exercises/ex_0184_DerefModify/README.en.md) · [fr](.argos/exercises/ex_0184_DerefModify/README.fr.md) | pointers / dereferencing | 🟡 medium |
 | 0185 | [Array Sum Ptr](.argos/exercises/ex_0185_ArraySumPtr/README.en.md) · [fr](.argos/exercises/ex_0185_ArraySumPtr/README.fr.md) | pointers / dereferencing | 🟡 medium |
 | 0186 | [Find Max Ptr](.argos/exercises/ex_0186_FindMaxPtr/README.en.md) · [fr](.argos/exercises/ex_0186_FindMaxPtr/README.fr.md) | pointers / dereferencing | 🟡 medium |
+| 0188 | [Reverse Array Ptr](.argos/exercises/ex_0188_ReverseArrayPtr/README.en.md) · [fr](.argos/exercises/ex_0188_ReverseArrayPtr/README.fr.md) | pointers / dereferencing | 🟡 medium |
 <!-- CATALOGUE:END -->
 
 ## License
