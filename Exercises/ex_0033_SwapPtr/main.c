@@ -8,6 +8,8 @@
 
 int main(void)
 {
-
+  int x = 3;
+  int y = 8;
+  ex_0033_SwapPtr(&x, &y);
   return 0;
 }
